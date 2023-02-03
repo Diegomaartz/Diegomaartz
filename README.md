@@ -1,8 +1,8 @@
---> DIEGO MARTINEZ /n
---> MEXICO CITY /n
---> MEXICAN DEVELOPER /n
---> AI COLLEGE STUDENT /n
---> HTML / CSS / JAVASCRIPT - REACT / C / PYTHON - DJANGO /n
+<h1> --> DIEGO MARTINEZ  </h1>
+<h2> --> MEXICO CITY </h2>
+<h3> --> MEXICAN DEVELOPER </h3>
+--> AI COLLEGE STUDENT 
+--> HTML / CSS / JAVASCRIPT - REACT / C / PYTHON - DJANGO 
 
 <!---
 Diegomaartz/Diegomaartz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
