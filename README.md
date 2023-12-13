@@ -6,6 +6,7 @@
 </a>
 <i class="devicon-devicon-plain"></i>     
 Passionate developer and Artificial Intelligence Student. 🖥️ <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomaartz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>My favorite technologies!</h1>
