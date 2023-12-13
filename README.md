@@ -2,8 +2,8 @@
 
 # <h1><center> Diego Mendez </center></h1>
 <i class="devicon-devicon-plain"></i>     
-Passionate developer and Artificial Intelligence Student. 🖥️
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomaartz)](https://github.com/anuraghazra/github-readme-stats)
+Passionate developer and Artificial Intelligence Student. 🖥️ <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegomaartz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Find me here!</h2>
 <a href="https://www.linkedin.com/in/diegommendez">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px;"/>
