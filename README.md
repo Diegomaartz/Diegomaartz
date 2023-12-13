@@ -3,7 +3,6 @@
 # <h1 align="center"> <a href="https://www.linkedin.com/in/diegommendez"> Diego Mendez </a> </h1>
 <h2 align="center"> Passionate developer and Artificial Intelligence Student. 🖥️  </h2>
 
-<i class="devicon-devicon-plain"></i>     
 
 ## <h1 align="center">My favorite technologies!</h1>
 <p align="center">
