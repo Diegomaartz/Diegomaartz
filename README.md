@@ -7,8 +7,9 @@
 <i class="devicon-devicon-plain"></i>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+                    
 I'm a Mexican passionate developer and Artificial Intelligence Student.
 ##Some of what I`ve used!
 ![C](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />)
