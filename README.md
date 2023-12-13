@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 # <h1 align="center"> <a href="https://www.linkedin.com/in/diegommendez"> Diego Mendez </a> </h1>
 ## <h2 align="center"> Mexican developer and Artificial Intelligence Student. 🖥️  <br> 🌎💬 ENGLISH / SPANISH 🌎💬</h2>
 ## <h1 align="center">My favorite technologies!</h1>
