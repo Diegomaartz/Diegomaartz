@@ -13,7 +13,8 @@ I'm a Mexican passionate developer and Artificial Intelligence Student.
 ![C](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />)
 ![C++](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />)
 ![Javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)
+![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 100px;" />
+)
 ![Matlab](enlace-a-gif-matlab)
 
 ### DataBases
