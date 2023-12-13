@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 # <h1 align="center"> Diego Mendez </h1>
-## Passionate developer and Artificial Intelligence Student. 🖥️ 
+<h2 align="center"> Passionate developer and Artificial Intelligence Student. 🖥️  </h2>
 <a href="https://www.linkedin.com/in/diegommendez">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px;"/>
 </a>
