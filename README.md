@@ -1,5 +1,7 @@
 # <center># ¡Hi! 👋👋, I'm Diego Mendez</center>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 I'm a Mexican passionate developer and Artificial Intelligence Student.
 ##Some of what I`ve used!
 ![C](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />)
