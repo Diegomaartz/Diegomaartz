@@ -19,7 +19,7 @@ Passionate developer and Artificial Intelligence Student. 🖥️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="width: 50px;"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="width: 50px;"/>
 </p>
-<h2>Databases</h2>
+<h2>Some others I've used...</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px;"/>
