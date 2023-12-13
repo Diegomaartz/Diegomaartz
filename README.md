@@ -29,3 +29,6 @@
 </p>
 
 See you soon! 👀👀
+<a href="https://www.linkedin.com/in/diegommendez">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px;"/>
+</a>
