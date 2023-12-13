@@ -3,7 +3,7 @@
 # <h1><center> Diego Mendez </center></h1>
 <i class="devicon-devicon-plain"></i>     
 Passionate developer and Artificial Intelligence Student. 🖥️
-
+:MX:
 <br>
 <h2>Find me here!</h2>
 <a href="https://www.linkedin.com/in/diegommendez">
