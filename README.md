@@ -1,39 +1,32 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# <center># ¡Hi! 👋👋, I'm Diego Mendez</center>
 
-## Sobre mí
+I'm a Mexican passionate developer and Artificial Intelligence Student.
+##Some of what I`ve used!
+![C](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />)
+![C++](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />)
+![Javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
+![Python](enlace-a-gif-python)
+![Matlab](enlace-a-gif-matlab)
 
-Soy un apasionado por la tecnología y me especializo en diversas áreas. Aquí hay algunas de las tecnologías que manejo:
+### DataBases
+![SQL](enlace-a-gif-sql)
+![MySQL](enlace-a-gif-mysql)
+![PostgreSQL](enlace-a-gif-postgresql)
 
-### Lenguajes de Programación
-- C
-- C++
-- Javascript
-- Python
-- Matlab
-
-### Bases de Datos
-- SQL
-- MySQL
-- PostgreSQL
-
-### Herramientas y Frameworks
-- HTML
-- CSS
-- Bootstrap
-- React
+### Tools and Frameworks
+![HTML](enlace-a-gif-html)
+![CSS](enlace-a-gif-css)
+![Bootstrap](enlace-a-gif-bootstrap)
+![React](enlace-a-gif-react)
+![Django](enlace-a-gif-react)
 
 ### Herramientas de Visualización
-- Tableau
-
-## Mis Proyectos
-
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción o título del proyecto.
-- [Proyecto 2](enlace-al-proyecto-2): Breve descripción o título del proyecto.
+![Tableau](enlace-a-gif-tableau)
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](enlace-a-tu-perfil-de-LinkedIn) y [Twitter](enlace-a-tu-perfil-de-Twitter).
+Finde me here! [LinkedIn](https://www.linkedin.com/in/diegommendez) 
 
 ---
 
-¡Gracias por visitar mi perfil!
+See you soon! 👀👀
