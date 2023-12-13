@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<center> ¡Hi! 👋👋, I'm Diego Mendez</center>
+<center> <h1> ¡Hi! 👋👋, I'm Diego Mendez</h1>
 <i class="devicon-devicon-plain"></i>     
 Passionate developer and Artificial Intelligence Student.
 <br>
@@ -47,3 +47,4 @@ Finde me here! [LinkedIn](https://www.linkedin.com/in/diegommendez)
 ---
 
 See you soon! 👀👀
+</center>
