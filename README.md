@@ -7,20 +7,15 @@
 <i class="devicon-devicon-plain"></i>
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 100px;" />
                     
 I'm a Mexican passionate developer and Artificial Intelligence Student.
 ##Some of what I`ve used!
 ![C](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />)
 ![C++](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />)
 ![Javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
-![Python](
-           )
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)
 ![Matlab](enlace-a-gif-matlab)
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> 
+
 ### DataBases
 ![SQL](enlace-a-gif-sql)
 ![MySQL](enlace-a-gif-mysql)
