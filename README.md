@@ -1,4 +1,4 @@
-# <center># ¡Hi! 👋👋, I'm Diego Mendez</center>
+# <center> ¡Hi! 👋👋, I'm Diego Mendez</center>
 
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
@@ -10,13 +10,13 @@ I'm a Mexican passionate developer and Artificial Intelligence Student.
 <img src="https://icons8.com/icon/22439/mexico" style="width: 50px;" />
 
 <h1>My favorite technologies!</h1>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 50px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="width: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 50px;"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" style="width: 50px;"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="width: 50px;"/>
-          
+</p>
 <h2>Databases</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px;" />
