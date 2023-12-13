@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<h1><center> Diego Mendez </center></h1>
+# <h1><center> Diego Mendez </center></h1>
 <i class="devicon-devicon-plain"></i>     
 Passionate developer and Artificial Intelligence Student. 🖥️
 
