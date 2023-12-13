@@ -10,27 +10,26 @@
                     
 I'm a Mexican passionate developer and Artificial Intelligence Student.
 ##Some of what I`ve used!
-![C](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />)
-![C++](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />)
-![Javascript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
-![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 100px;" />
-)
-![Matlab](enlace-a-gif-matlab)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 100px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 100px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="width: 100px;"/>
+          
 ### DataBases
-![SQL](enlace-a-gif-sql)
-![MySQL](enlace-a-gif-mysql)
-![PostgreSQL](enlace-a-gif-postgresql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="width: 100px;" />
+
 
 ### Tools and Frameworks
-![HTML](enlace-a-gif-html)
-![CSS](enlace-a-gif-css)
-![Bootstrap](enlace-a-gif-bootstrap)
-![React](enlace-a-gif-react)
-![Django](enlace-a-gif-react)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="width: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="width: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="width: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="width: 100px;"/>
+          
 ### Visualization tools
-![Tableau](enlace-a-gif-tableau)
+<img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" style="width: 100px;"/>
 
 ## Contacto
 
