@@ -25,13 +25,13 @@ I'm a Mexican passionate developer and Artificial Intelligence Student.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="width: 50px;"/>
 </p>  
 
-<p>
 <h2>Databases</h2>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="width: 50px;" />
 </p>  
 
-<p>
 <h2>Tools and Frameworks</h2>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="width: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="width: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="width: 50px;"/>
@@ -39,8 +39,8 @@ I'm a Mexican passionate developer and Artificial Intelligence Student.
 </p>  
 
 
-<p>
 <h2>Visualization Tools</h2>
+<p>
 <img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" style="width: 50px;"/>
 </p>  
 
